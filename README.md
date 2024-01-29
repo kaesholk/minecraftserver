@@ -2,7 +2,7 @@
 ## How to join (first time setup mostly)
 1. Download and install [Curseforge](https://www.curseforge.com/)
 
-2. Download the modpack (zip file) from this repository
+2. Download the modpack (zip file) from this repository (click on it, then click "Raw" to download)
 
 3. Open Curseforge, go to the Minecraft tab, and select "Create Custom Profile" in the top right corner
 
