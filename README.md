@@ -10,4 +10,6 @@
 	- Note: the first argument `-Xmx4G` is for RAM allocation, so change the number if you want more/less RAM. 4G should be more than enough.
 6. Once Minecraft has launched, connect to the server at **`artists-strongly.gl.joinmc.link`**
 
-7. Lmk if anything breaks
+7. If it crashes, try launching it again
+
+8. Lmk if anything breaks
